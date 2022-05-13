@@ -72,12 +72,33 @@
     $HarryPotterEIDoniDellaMorte->production = 'Warner Bros';
     $HarryPotterEIDoniDellaMorte->running_time = '2h e 26m';
 
+    echo('<pre>');
     var_dump($HarryPotterELaPietraFilosofale);
+    echo('</pre>');
+
+    echo('<pre>');
     var_dump($HarryPotterELaCameraDeiSegreti);
+    echo('</pre>');
+
+    echo('<pre>');
     var_dump($HarryPotterEIlPrigionieroDiAzkaban);
+    echo('</pre>');
+
+    echo('<pre>');
     var_dump($HarryPotterEIlCaliceDiFuoco);
+    echo('</pre>');
+
+    echo('<pre>');
     var_dump($HarryPotterELOrdineDellaFenice);
+    echo('</pre>');
+
+    echo('<pre>');
     var_dump($HarryPotterEIlPrincipeMezzosangue);
+    echo('</pre>');
+
+    echo('<pre>');
     var_dump($HarryPotterEIDoniDellaMorte);
+    echo('</pre>');
+
 
 ?>
