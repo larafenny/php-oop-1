@@ -9,5 +9,12 @@ create un file index.php in cui:
 
 */
 
+//phpinfo();
+
+// definisco class Movie
+class Movie{
+    
+}
+
 
 ?>
