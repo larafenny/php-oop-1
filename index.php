@@ -11,7 +11,7 @@
 
     //phpinfo();
 
-    // definisco class Movie e seue istanze
+    // definisco class Movie e suoi attributi
     class Movie{
         public $title;
         public $country;
@@ -20,6 +20,14 @@
         public $running_time;
     }
 
+    // creo qualche istanza
+    $HarryPotterELaPietraFilosofale = new Movie();
+    $HarryPotterELaCameraDeiSegreti = new Movie();
+    $HarryPotterEIlPrigionieroDiAzkaban = new Movie();
+    $HarryPotterEIlCaliceDiFuoco = new Movie();
+    $HarryPotterELOrdineDellaFenice = new Movie();
+    $HarryPotterEIlPrincipeMezzosangue = new Movie();
+    $HarryPotterEIDoniDellaMorte = new Movie();
     
 
 ?>
